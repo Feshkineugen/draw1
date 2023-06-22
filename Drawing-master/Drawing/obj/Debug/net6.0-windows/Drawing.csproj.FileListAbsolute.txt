@@ -1,0 +1,17 @@
+C:\Users\feshk\source\repos\Drawing-master\Drawing\bin\Debug\net6.0-windows\Drawing.exe
+C:\Users\feshk\source\repos\Drawing-master\Drawing\bin\Debug\net6.0-windows\Drawing.deps.json
+C:\Users\feshk\source\repos\Drawing-master\Drawing\bin\Debug\net6.0-windows\Drawing.runtimeconfig.json
+C:\Users\feshk\source\repos\Drawing-master\Drawing\bin\Debug\net6.0-windows\Drawing.dll
+C:\Users\feshk\source\repos\Drawing-master\Drawing\bin\Debug\net6.0-windows\Drawing.pdb
+C:\Users\feshk\source\repos\Drawing-master\Drawing\obj\Debug\net6.0-windows\Drawing.csproj.AssemblyReference.cache
+C:\Users\feshk\source\repos\Drawing-master\Drawing\obj\Debug\net6.0-windows\Drawing.Form1.resources
+C:\Users\feshk\source\repos\Drawing-master\Drawing\obj\Debug\net6.0-windows\Drawing.csproj.GenerateResource.cache
+C:\Users\feshk\source\repos\Drawing-master\Drawing\obj\Debug\net6.0-windows\Drawing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feshk\source\repos\Drawing-master\Drawing\obj\Debug\net6.0-windows\Drawing.AssemblyInfoInputs.cache
+C:\Users\feshk\source\repos\Drawing-master\Drawing\obj\Debug\net6.0-windows\Drawing.AssemblyInfo.cs
+C:\Users\feshk\source\repos\Drawing-master\Drawing\obj\Debug\net6.0-windows\Drawing.csproj.CoreCompileInputs.cache
+C:\Users\feshk\source\repos\Drawing-master\Drawing\obj\Debug\net6.0-windows\Drawing.dll
+C:\Users\feshk\source\repos\Drawing-master\Drawing\obj\Debug\net6.0-windows\refint\Drawing.dll
+C:\Users\feshk\source\repos\Drawing-master\Drawing\obj\Debug\net6.0-windows\Drawing.pdb
+C:\Users\feshk\source\repos\Drawing-master\Drawing\obj\Debug\net6.0-windows\Drawing.genruntimeconfig.cache
+C:\Users\feshk\source\repos\Drawing-master\Drawing\obj\Debug\net6.0-windows\ref\Drawing.dll
